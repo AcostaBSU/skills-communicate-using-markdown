@@ -11,3 +11,7 @@
 name = "John Smith"
 greeting = f"Hello, {name}."
 ```
+
+- [ ] Add a headers
+- [ ] Add an image
+- [ ] Add a code snippet
